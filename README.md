@@ -1,4 +1,4 @@
-## [JS Notional Machine](http://www.computacional.com.br/arquivos/Artigos%20CS%20Unplugged%20-%20Desplugado/SORVA%20-%20Notional%20Machines%20and%20Introductory%20Programming%20Education.pdf)
+## [JS Notional Machine](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/)
 
 
 The __notional machine__ is a set of diagrams and vocabulary you can use to accurately describe how JS is executing behind the scenes without getting weighed down with details of implementations.  Your brain will build a [mental model](https://www.youtube.com/watch?v=5K_sxBUGx8A) of what JavaScript does during program execution one way or the other.  Instead of letting this happen by chance, explicitly learning a notional machine for JS will enable you to learn correctly the first time around.  The notional machine don't need to be precise down to the EMCA specifications, instead it needs to accurately describe what is relevant to the task at hand. While first learning to code this list includes:
