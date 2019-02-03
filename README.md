@@ -18,6 +18,9 @@ To help you build your Notional Machine, use [PythonTutor (for JavaScript)](http
 
 Stick to it!  Step-throughs aren't glamorous but they will help you learn JS better and faster than you thought was possible.
 
+---
+
+[a deeper read on notional machine](https://www.researchgate.net/profile/Juha_Sorva/publication/259998496_Notional_Machines_and_Introductory_Programming_Education/links/5586b8f008aef58c039f90f5/Notional-Machines-and-Introductory-Programming-Education.pdf)
 
 ___
 ___
