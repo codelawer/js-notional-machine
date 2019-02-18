@@ -20,7 +20,10 @@ Stick to it!  Step-throughs aren't glamorous but they will help you learn JS bet
 
 ---
 
-[a deeper read on notional machine](https://www.researchgate.net/profile/Juha_Sorva/publication/259998496_Notional_Machines_and_Introductory_Programming_Education/links/5586b8f008aef58c039f90f5/Notional-Machines-and-Introductory-Programming-Education.pdf)
+additional resources:
+* [defining what it means to understand computing](https://computinged.wordpress.com/2012/05/24/defining-what-does-it-mean-to-understand-computing/)  
+* [notional machines and misconceptions in CS](https://computinged.wordpress.com/2016/03/07/notional-machines-and-misconceptions-in-cs-developing-a-research-agenda-at-dagstuhl/)
+* [a deeper look at notional machines](https://www.researchgate.net/profile/Juha_Sorva/publication/259998496_Notional_Machines_and_Introductory_Programming_Education/links/5586b8f008aef58c039f90f5/Notional-Machines-and-Introductory-Programming-Education.pdf)
 
 ___
 ___
