@@ -25,7 +25,7 @@ Stick to it!  Step-throughs aren't glamorous but they will help you learn JS bet
 The best way to learn JavaScript is from the [inside-out](./javascript-in-order.md), focusing first on how your code is interpreted and how memory is managed then later learning to apply this to practical problems. Unfortunately most introductions to JS cover the language from the outside in, focusing on the most interesting or intuitive features first and directly apply them to programming challenges.  This approach will feel satisfying at first but will quickly slow your progress as you have difficulty separating JS behavior from strategy bugs.  
 
 
-Instead, take a look through [JavaScript in order](./javascript-in-order.md).  It's a guide to JavaScript that builds your understanding of the JS Notional Machine from the inside out, focusing first on the basic core of code interpretation and building onto that knowledge to build a full understanding of JS. 
+Instead, take a look through [JavaScript in order](./javascript-in-order.md).  It's a guide to JavaScript that builds your understanding of the JS Notional Machine from the inside out, focusing first on how the JS engine interprets your commands and later exploring how JS can be used as a problem-sovling tool.
 
 [JavaScript in order](./javascript-in-order.md) is not just a better explanation of JS.  It's an entirely different approach encouraging you to learn JS by visualizing and studying the behavior of carefully designed snippets, building your own correct understanding instead of learning our best explanation.
 
