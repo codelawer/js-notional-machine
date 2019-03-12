@@ -20,14 +20,14 @@ Stick to it!  Step-throughs aren't glamorous but they will help you learn JS bet
 
 ---
 
-## [JavaScript in Order](./javascript-in-order.md)
+## [JavaScript in Order](https://github.com/janke-learning/js-in-order)
 
-The best way to learn JavaScript is from the [inside-out](./javascript-in-order.md), focusing first on how your code is interpreted and how memory is managed then later learning to apply this to practical problems. Unfortunately most introductions to JS cover the language from the outside in, focusing on the most interesting or intuitive features first and directly apply them to programming challenges.  This approach will feel satisfying at first but will quickly slow your progress as you have difficulty separating JS behavior from strategy bugs.  
+The best way to learn JavaScript is from the [inside-out](https://github.com/janke-learning/js-in-order), focusing first on how your code is interpreted and how memory is managed then later learning to apply this to practical problems. Unfortunately most introductions to JS cover the language from the outside in, focusing on the most interesting or intuitive features first and directly apply them to programming challenges.  This approach will feel satisfying at first but will quickly slow your progress as you have difficulty separating JS behavior from strategy bugs.  
 
 
-Instead, take a look through [JavaScript in order](./javascript-in-order.md).  It's a guide to JavaScript that builds your understanding of the JS Notional Machine from the inside out focusing first on how the JS engine interprets your commands, building from the simplest concepts of program execution and errors all the way up to more complicated features like contextual free variables.  After mastering JavaScript's inner workings you'll find [problem solving strategies](https://github.com/colevandersWands/top/#strategy) are much more approachable.
+Instead, take a look through [JavaScript in order](https://github.com/janke-learning/js-in-order).  It's a guide to JavaScript that builds your understanding of the JS Notional Machine from the inside out focusing first on how the JS engine interprets your commands, building from the simplest concepts of program execution and errors all the way up to more complicated features like contextual free variables.  After mastering JavaScript's inner workings you'll find [problem solving strategies](https://github.com/colevandersWands/top/#strategy) are much more approachable.
 
-[JavaScript in order](./javascript-in-order.md) is not just a better explanation of JS.  It's an entirely different approach encouraging you to learn JS by visualizing and studying the behavior of carefully designed snippets, building your own correct understanding instead of learning our best explanation.
+[JavaScript in order](https://github.com/janke-learning/js-in-order) is not just a better explanation of JS.  It's an entirely different approach encouraging you to learn JS by visualizing and studying the behavior of carefully designed snippets, building your own correct understanding instead of learning our best explanation.
 
 
 ---
